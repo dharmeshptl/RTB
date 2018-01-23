@@ -1,4 +1,4 @@
 # RTB
 Source code of the RTB platform.
 
-The source code of our RTB platform will be partially released in this repository after the launch of it.
+This repository now consists of partial code of our RTB platform, A detailed document will be made later on.
